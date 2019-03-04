@@ -20,16 +20,33 @@ namespace random_numbers
 
             // 2. Use a for loop to iterate over all numbers between 0 and `numbers.Count - 1`
 
-            for(int i = 0; i < numbers.Count - 1 ; i++) {
+            for(int i = 0; i <= numbers.Count - 1 ; i++) {
+                Console.WriteLine($"Random number: {numbers[i]}");
+            }
+            Console.WriteLine();
+
+            for(int i = 0; i < numbers.Count; i++) {
                 Console.WriteLine($"Random number: {numbers[i]}");
             }
             Console.WriteLine();
 
             // 3. Inside the body of the for loop determine if the current loop index is contained inside of the numbers list. Print a message to the console indicating whether the index is in the list.
 
-            for(int i = 0; i < numbers.Count - 1 ; i++) {
+            /*
+            for(int i = 0; i <= numbers.Count - 1 ; i++) {
                 Console.WriteLine($"Random number: {numbers[i]}");
                 if (i == numbers[i]) {
+                    Console.WriteLine($"Numbers list contains {i}");
+                }
+                else {
+                    Console.WriteLine($"Numbers list does not contain {i}");
+                }
+            }
+            */
+
+            for(int i = 0; i <= numbers.Count - 1 ; i++) {
+                Console.WriteLine($"Random number: {numbers[i]}");
+                if (numbers.Contains(i)) {
                     Console.WriteLine($"Numbers list contains {i}");
                 }
                 else {
