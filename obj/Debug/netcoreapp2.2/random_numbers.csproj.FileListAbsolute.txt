@@ -1,0 +1,11 @@
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/bin/Debug/netcoreapp2.2/random_numbers.deps.json
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/bin/Debug/netcoreapp2.2/random_numbers.runtimeconfig.json
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/bin/Debug/netcoreapp2.2/random_numbers.runtimeconfig.dev.json
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/bin/Debug/netcoreapp2.2/random_numbers.dll
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/bin/Debug/netcoreapp2.2/random_numbers.pdb
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.csprojAssemblyReference.cache
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.csproj.CoreCompileInputs.cache
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.AssemblyInfoInputs.cache
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.AssemblyInfo.cs
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.dll
+/Users/megan/Desktop/NSS/workspace/backend/random_numbers/obj/Debug/netcoreapp2.2/random_numbers.pdb

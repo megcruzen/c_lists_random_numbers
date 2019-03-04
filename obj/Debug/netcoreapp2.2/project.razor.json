@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/megan/Desktop/NSS/workspace/backend/random_numbers/random_numbers.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
